@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Gupta, 3rd year udergrad at iit bhilai in discipline of electrical engineering
+- 👋 Hi, I’m Harsh Gupta, Final year udergrad at iit bhilai in discipline of electrical engineering
 - 👀 I’m interested in computer network, digital design, implentation of software using C/C++
 - 🌱 I’m currently learning C++, Computer Networks, Operating Systems, Embedded system, Digital Design
 - 💞️ I’m looking to collaborate on projects based on C++
